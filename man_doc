@@ -1,0 +1,7 @@
+strcmp:
+	compara dos strings
+
+feof:
+	valida que lamenos exista 1 caracteres en la cadena que esta analizando
+	retorna 0 para indicar fin de cadena
+
